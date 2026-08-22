@@ -4,7 +4,7 @@ An Excel dashboard analyzing employee attrition at a fictional company, built to
 
 ## Dataset
 
-The dataset (HR-Employee-Attrition.csv) is IBM's classic HR Analytics dataset, containing 1,469 employee records with details like department, job role, overtime status, tenure, income, and whether they left the company.
+The dataset (HR-Employee-Attrition.xlsx) is IBM's classic HR Analytics dataset, containing 1,469 employee records with details like department, job role, overtime status, tenure, income, and whether they left the company.
 
 ## What I did
 
@@ -33,7 +33,7 @@ My slicers weren't filtering all the charts at the same time — some would upda
 
 ## Files
 
-- `HR-Employee-Attrition.csv` — raw dataset
+- `HR-Employee-Attrition.xlsx` — raw dataset
 - `HR-Attrition-Full-Analysis.xlsx` — full workbook (raw data, worksheet, pivot tables, dashboard)
 - `HR-Attrition-Dashboard.png` — dashboard preview
 
